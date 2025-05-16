@@ -1,7 +1,7 @@
 {
-  "name": "@slnckyami/V3-Baileys",
+  "name": "@zurrr-dev/Bails",
   "version": "1.0.2",
-  "description": "WhatsApp Beta",
+  "description": "WhatsApp Baileys",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/SlncKyami/@slnckyami/V3-Baileys",
+  "homepage": "https://github.com/zurrr-dev/baills",
   "repository": {
-    "url": "git@github.com:SlncKyami/@slnckyami/V3-Baileys.git"
+    "url": "git@github.com:zurrr-dev/@zurrr-dev/baills.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
