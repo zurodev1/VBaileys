@@ -2,7 +2,7 @@
 
 <div align='center'>
 
-![WhatsApp API](https://raw.githubusercontent.com/Drayyyxd/image/main/bgdray.jpg)
+![WhatsApp API](https://files.catbox.moe/ibz8hp.jpg)
 
 </div>
 
@@ -35,12 +35,12 @@ npm install @drayyy/XD-Baileys
 
 Use the edge version (no guarantee of stability, but latest fixes + features)
 ```bash
-yarn add @drayyy/XD-Baileys@latest
+yarn add @slnckyami/V3-Baileys@latest
 ```
 
 Then import your code using:
 ```javascript
-const { default: makeWASocket } = require("@drayyy/XD-Baileys")
+const { default: makeWASocket } = require("@slnckyami/V3-Baileys")
 ```
 # Links
 
