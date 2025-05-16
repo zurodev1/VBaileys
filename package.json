@@ -1,5 +1,5 @@
 {
-  "name": "@drayyy/XD-Baileys",
+  "name": "@slnckyami/V3-Baileys",
   "version": "1.0.2",
   "description": "WhatsApp Beta",
   "keywords": [
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/Drayyyxd/@drayyy/XD-Baileys",
+  "homepage": "https://github.com/SlncKyami/@slnckyami/V3-Baileys",
   "repository": {
-    "url": "git@github.com:Drayyyxd/@drayyy/XD-Baileys.git"
+    "url": "git@github.com:SlncKyami/@slnckyami/V3-Baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
